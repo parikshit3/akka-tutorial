@@ -1,0 +1,1 @@
+This is akka tutorial project.
